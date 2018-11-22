@@ -1,0 +1,9 @@
+; phone-specific configuration file sample
+ ; Line 1 phone number
+ line1_name : 300
+
+ ; Line 1 name for authentication with proxy server
+ line1_authname : cisco
+
+ ; Line 1 authentication name password	
+ line1_password : 123

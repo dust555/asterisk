@@ -1,0 +1,14 @@
+#Image Version
+image_version:SIP42.9-4-2SR3-1S;
+
+#Default Codec
+preferred_codec :g711ulaw
+
+#Enable Registration
+proxy_register :1 ;
+
+#Registration expiration
+timer_register_expires :3600 ;
+
+#Proxy address
+proxy1_address: 10.0.0.100 ;
